@@ -1,6 +1,6 @@
 {
   "name": "@keplersj/ts-java",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Create TypeScript declaration files for java packages.",
   "main": "index.js",
   "scripts": {
