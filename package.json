@@ -1,6 +1,6 @@
 {
   "name": "@keplersj/ts-java",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "Create TypeScript declaration files for java packages.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   ],
   "files": [
     "bin",
-    "lib"
+    "lib",
+    "ts-templates"
   ],
   "author": "Jim Lloyd <jim.lloyd@gmail.com>",
   "license": "MIT",
